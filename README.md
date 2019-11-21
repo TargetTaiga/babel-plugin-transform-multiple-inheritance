@@ -1,6 +1,9 @@
 # babel-plugin-transform-multiple-inheritance
 Transforms sequence expression given after `extends`.
 
+## Installing
+`npm i babel-plugin-transform-multiple-inheritance`
+
 ## Example
 Transforms following class declaration
 ```js
