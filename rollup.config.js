@@ -1,7 +1,7 @@
 export default [{
     input: 'src/index.js',
     output: {
-        file: 'dist/stringify-jsx.js',
+        file: 'dist/index.js',
         format: 'cjs'
     }
 }];

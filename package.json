@@ -4,7 +4,7 @@
   "description": "babel plugin for multiple inheritance",
   "main": "dist/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "rollup -c"
   },
   "repository": {
     "type": "git",
@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/TargetTaiga/babel-plugin-transform-multiple-inheritance/issues"
   },
-  "homepage": "https://github.com/TargetTaiga/babel-plugin-transform-multiple-inheritance#readme"
+  "homepage": "https://github.com/TargetTaiga/babel-plugin-transform-multiple-inheritance#readme",
+  "devDependencies": {
+    "rollup": "^1.27.3"
+  }
 }
