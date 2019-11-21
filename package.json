@@ -1,0 +1,26 @@
+{
+  "name": "babel-plugin-transform-multiple-inheritance",
+  "version": "1.0.0",
+  "description": "babel plugin for multiple inheritance",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TargetTaiga/babel-plugin-transform-multiple-inheritance.git"
+  },
+  "author": {
+    "name": "targettaiga",
+    "email": "targettaiga@gmail.com"
+  },
+  "license": "MIT",
+  "keywords": [
+    "multiple inheritance",
+    "multiple-inheritance"
+  ],
+  "bugs": {
+    "url": "https://github.com/TargetTaiga/babel-plugin-transform-multiple-inheritance/issues"
+  },
+  "homepage": "https://github.com/TargetTaiga/babel-plugin-transform-multiple-inheritance#readme"
+}
